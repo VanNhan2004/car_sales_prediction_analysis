@@ -1,18 +1,13 @@
-# Python
+# Dataset & models
+dataset/*.csv
+models/*.pkl
+
+# Python cache
 __pycache__/
 *.pyc
-
-# Virtual env
-venv/
-.env/
-
-# Model & data (nếu nặng)
-models/*.pkl
-dataset/*.csv
 
 # Streamlit
 .streamlit/
 
 # OS
 .DS_Store
-Thumbs.db
