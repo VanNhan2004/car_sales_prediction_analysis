@@ -1,0 +1,4 @@
+cd "C:\Hoc Tap\PREDICT_CAR"
+
+echo "" > dataset\.gitkeep
+echo "" > models\.gitkeep
