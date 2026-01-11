@@ -1,6 +1,9 @@
 # Dataset & models
-dataset/*.csv
-models/*.pkl
+dataset/*
+!dataset/.gitkeep
+
+models/*
+!models/.gitkeep
 
 # Python cache
 __pycache__/
